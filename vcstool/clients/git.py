@@ -1,5 +1,6 @@
 import copy
 import os
+import re
 
 from .vcs_base import find_executable, VcsClientBase
 
